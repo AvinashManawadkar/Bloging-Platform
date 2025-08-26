@@ -4,5 +4,8 @@ A Blogging Platform in Django is a web application where users can create, read,
 <img width="1913" height="911" alt="Screenshot 2025-08-26 232240" src="https://github.com/user-attachments/assets/90f77d52-a14d-44fe-b9bb-afba2bb41ade" />
 
 
-Uploading Screen Recording 2025-08-26 232143 (1).mp4…
+
+
+https://github.com/user-attachments/assets/89cc0bad-7b6b-4a85-b6da-6e0d92616644
+
 
